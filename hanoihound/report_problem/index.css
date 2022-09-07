@@ -1,0 +1,32 @@
+body {
+  padding: 100px;
+  padding-left: 380px;
+  background-color: lightgrey;
+}
+
+.email{
+  width: 500px;
+  height: 25px;
+  margin-bottom: 10px;
+}
+
+.text{
+  width: 500px;
+  height: 300px;
+  margin-bottom: 20px;
+}
+
+#email, #text{
+  width: 100%;
+  height: 100%;
+  font-family: monospace;
+}
+
+#btn {
+  border: solid 2px black;
+  border-radius: 10px;
+  width: 80px;
+  height: 30px;
+  background-color: crimson;
+  font-size: 15px;
+}
